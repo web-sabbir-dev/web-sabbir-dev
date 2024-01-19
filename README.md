@@ -5,11 +5,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=5020&pause=991&color=FFFFFF&random=false&width=559&lines=A+Passionate+Web+Developer+From+Bangladesh)](https://git.io/typing-svg)
 
-I find joy in exploring diverse technologies and frameworks, and I particularly appreciate working with React.
+<div style="display: flex; align-items: center; justify-content: center;">
+  <h4 style="display: inline-block;">This is my Github Account:</h4>
+  <a style="display: inline-block; margin-left: 20px;" href="https://github.com/web-sabbir-dev">
+    <img src="https://img.icons8.com/?size=512&id=52539&format=png" alt="github" style="background-color: blue; height: 40px;">
+  </a>
+</div>
 
-<br/>
-<br/>
-<br/>
+
 <br/>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
